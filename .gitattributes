@@ -1,0 +1,6 @@
+Assets/Resources/THE_SLS-1/THE_SLS-1.c4d filter=lfs diff=lfs merge=lfs -text
+Assets/Resources/THE_SLS-1/THE_SLS-1.obj filter=lfs diff=lfs merge=lfs -text
+Assets/Resources/THE_SLS-1.obj filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/40/4003f0470780ea2223dcab95e5678c53 filter=lfs diff=lfs merge=lfs -text
+Packages/com.ptc.vuforia.engine-10.15.3.tgz filter=lfs diff=lfs merge=lfs -text
